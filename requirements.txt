@@ -1,0 +1,6 @@
+pandas
+gradio
+matplotlib
+numpy
+TensorFlow
+keras
